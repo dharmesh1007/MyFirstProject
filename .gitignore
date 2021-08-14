@@ -1,3 +1,5 @@
 $ cat .gitignore
 *.[oa]
 *~
+cheese.txt
+.DS_Store
